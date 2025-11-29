@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="left">- Web CTF with JordanSec<br><br>- Game Designer<br><br>- Learning game development<br><br>- Contact me on Discord, Torch4084</h4>
+<h4 align="left">- Web CTF with JordanSec<br><br>- Amateur Web Exploiter<br><br>- Game Designer<br><br>- Learning game development<br><br>- Contact me on Discord, Torch4084</h4>
 
 ###
 
