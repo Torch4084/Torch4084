@@ -32,17 +32,6 @@
 
 I'm Ahmed (Torch). I play CTFs, build small tools, and break web challenges to learn how systems fail.
 
-```text
-torch@torch-os:~$ neofetch
-   /\           user: torch (Ahmed)
-  /  \          os: Arch Linux / Fedora
- /\   \         wm: Hyprland (Wayland)
-/      \        affiliation: JordanSec CTF Team
-/   ,,   \      focus: Web Exploitation & OSINT
-/   |  |  -\     site: t0rch.xyz
-/_-''    ''-_\  status: breaking things to understand them
-```
-
 - **CTFs & Security**: Playing with **JordanSec**, mainly focused on web exploitation and OSINT.
 - **Linux & Systems**: Arch and Fedora user. I spend probably too much time tweaking Hyprland configs and poking around system internals.
 - **Building tools**: Built [cleanroom](https://github.com/Torch4084/cleanroom) because I wanted a simple GTK4 app to manage systemd-nspawn containers without Docker, and [hypr-control](https://github.com/Torch4084/hypr-control) for Wayland window management.
