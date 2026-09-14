@@ -29,7 +29,7 @@
 ### About me
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Torch4084/Torch4084/main/torch-walk-walk.gif" alt="Torch mascot" width="160" />
+  <img src="https://raw.githubusercontent.com/Torch4084/Torch4084/main/assets/torch-banner.svg" alt="Torch Terminal Card" width="100%" style="max-width: 680px;" />
 </div>
 
 I'm Ahmed (Torch). I play CTFs, build small tools, and break web challenges to learn how systems fail.
@@ -89,12 +89,7 @@ If you want to talk security, Linux setups, or collaborate, ping me on Discord (
 
 **Security & Pentesting**  
 <p align="left">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=target&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Metasploit-146EB4?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=nsa&logoColor=white" alt="Ghidra" />
-  <img src="https://img.shields.io/badge/Linux_Security-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Security" />
+  <img src="https://raw.githubusercontent.com/Torch4084/Torch4084/main/assets/icons/security.svg" alt="Security & Pentesting" height="48" />
 </p>
 
 **Code & Scripting**  
@@ -104,7 +99,7 @@ If you want to talk security, Linux setups, or collaborate, ping me on Discord (
 
 **Systems & Tools**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,arch,fedora,git,unity,blender&theme=dark" alt="Systems & Tools" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,gtk,git,unity,blender&theme=dark" alt="Systems & Tools" />
 </p>
 
 ---
