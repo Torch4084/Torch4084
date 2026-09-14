@@ -27,10 +27,6 @@
 
 ### About me
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Torch4084/Torch4084/main/assets/torch-banner.svg" alt="Torch Terminal Card" width="100%" style="max-width: 680px;" />
-</div>
-
 I'm Ahmed (Torch). I play CTFs, build small tools, and break web challenges to learn how systems fail.
 
 - **CTFs & Security**: Playing with **JordanSec**, mainly focused on web exploitation and OSINT.
