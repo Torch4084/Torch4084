@@ -44,6 +44,15 @@ If you want to talk security, Linux setups, or collaborate, ping me on Discord (
 
 ---
 
+### Technical Focus
+
+- **Web Exploitation**: Authentication & JWT bypasses, SSRF, IDORs, SSTI, SQL injection, prototype pollution, and business logic flaws.
+- **Systems & Containers**: Linux container isolation (`systemd-nspawn`), Wayland compositor tooling (`Hyprland`), and system automation.
+- **Security Tooling**: Burp Suite Pro, Ghidra, Wireshark, Nmap, Metasploit, and custom Python exploit tooling.
+- **Game Development**: Gameplay mechanics and architecture in Unity (C#) with 3D assets in Blender.
+
+---
+
 ### Competitions & Achievements
 
 | Placement | Event & Details | Year |
