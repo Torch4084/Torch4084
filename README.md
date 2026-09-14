@@ -19,14 +19,14 @@
   <a href="https://discord.com/users/1177684089139114048" target="_blank"><img src="https://img.shields.io/badge/Discord-Torch4084-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://t.me/torch4084" target="_blank"><img src="https://img.shields.io/badge/Telegram-@torch4084-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://jordansec.org" target="_blank"><img src="https://img.shields.io/badge/CTF_Team-JordanSec-DC2626?style=for-the-badge&logo=hackthebox&logoColor=white" alt="JordanSec" /></a>
-  <img src="https://img.shields.io/badge/Location-Jordan-007A3D?style=for-the-badge&logo=google-maps&logoColor=white" alt="Jordan" />
+  <img src="https://komarev.com/ghpvc/?username=Torch4084&color=ff7700&style=for-the-badge&label=VIEWS" alt="Profile Views" />
 </p>
 
 </div>
 
 ---
 
-<img align="right" width="220" src="https://raw.githubusercontent.com/Torch4084/Torch4084/main/torch-walk-walk.gif" alt="Torch mascot" />
+<img align="right" width="200" src="https://raw.githubusercontent.com/Torch4084/Torch4084/main/torch-walk-walk.gif" alt="Torch mascot" />
 
 ### About me
 
@@ -75,41 +75,22 @@ If you want to talk security, Linux setups, or collaborate, ping me on Discord (
 
 ---
 
-### Tools & Languages
+### Tools & Arsenal
 
-**Core & Security**  
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=target&logoColor=white" alt="Nmap" />
-<img src="https://img.shields.io/badge/Metasploit-146EB4?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-<img src="https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=nsa&logoColor=white" alt="Ghidra" />
-<img src="https://img.shields.io/badge/Linux_Security-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Security" />
+**Security & Pentesting**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=target&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Metasploit-146EB4?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=nsa&logoColor=white" alt="Ghidra" />
+  <img src="https://img.shields.io/badge/Linux_Security-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Security" />
+</p>
 
-<br/>
-
-**Code**  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-
-<br/>
-
-**Systems & Workflow**  
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
-<img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
-<img src="https://img.shields.io/badge/Hyprland-00B4D8?style=for-the-badge&logo=wayland&logoColor=white" alt="Hyprland" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-
-<br/>
-
-**Game dev & 3D**  
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity" />
-<img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-<img src="https://img.shields.io/badge/Autodesk_Maya-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="Maya" />
+**Languages & Systems**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,bash,js,sqlite,linux,arch,fedora,git,unity,blender&theme=dark" alt="Languages and Systems" />
+</p>
 
 ---
 
