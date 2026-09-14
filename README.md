@@ -19,7 +19,6 @@
   <a href="https://discord.com/users/1177684089139114048" target="_blank"><img src="https://img.shields.io/badge/Discord-Torch4084-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://t.me/torch4084" target="_blank"><img src="https://img.shields.io/badge/Telegram-@torch4084-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://jordansec.org" target="_blank"><img src="https://img.shields.io/badge/CTF_Team-JordanSec-DC2626?style=for-the-badge&logo=hackthebox&logoColor=white" alt="JordanSec" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Torch4084&color=ff7700&style=for-the-badge&label=VIEWS" alt="Profile Views" />
 </p>
 
 </div>
