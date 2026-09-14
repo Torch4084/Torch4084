@@ -10,11 +10,14 @@
 
 # Hey, I'm Torch 👋
 
+<p><em>JordanSec CTF Team // Web Exploitation // Linux // Builder</em></p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF7700&center=true&vCenter=true&width=500&lines=Security+Researcher;Web+Exploitation+%26+OSINT;CTF+Player+%40+JordanSec;Linux+%26+Systems+Tinkerer;Game+Design+%26+3D)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://t0rch.xyz" target="_blank"><img src="https://img.shields.io/badge/Website-t0rch.xyz-ff6f00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-Torch4084-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://discord.com/users/1177684089139114048" target="_blank"><img src="https://img.shields.io/badge/Discord-Torch4084-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://t.me/torch4084" target="_blank"><img src="https://img.shields.io/badge/Telegram-@torch4084-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <img src="https://img.shields.io/badge/CTF_Team-JordanSec-DC2626?style=for-the-badge&logo=hackthebox&logoColor=white" alt="JordanSec" />
   <img src="https://img.shields.io/badge/Location-Jordan-007A3D?style=for-the-badge&logo=google-maps&logoColor=white" alt="Jordan" />
 </p>
@@ -27,23 +30,40 @@
 
 ### About me
 
-I'm Ahmed (Torch). I'm a student and security researcher based in Jordan. Most of my time goes into terminal windows, CTFs, and Linux.
+I'm Ahmed (Torch). I play CTFs, build small tools, and break web challenges to learn how systems fail.
 
-- **CTFs & Security**: Playing with **JordanSec**, mostly focused on web exploitation and OSINT. I like figuring out how applications break and writing up my solutions.
-- **Linux & Systems**: Arch and Fedora user. I spend probably too much time tweaking Hyprland and poking around system internals.
+- **CTFs & Security**: Playing with **JordanSec**, mainly focused on web exploitation and OSINT.
+- **Linux & Systems**: Arch and Fedora user. I spend probably too much time tweaking Hyprland configs and poking around system internals.
 - **Building tools**: Built [cleanroom](https://github.com/Torch4084/cleanroom) because I wanted a simple GTK4 app to manage systemd-nspawn containers without Docker, and [hypr-control](https://github.com/Torch4084/hypr-control) for Wayland window management.
 - **Game dev & 3D**: Learning game mechanics in Unity with C#, modeling assets in Blender and Maya.
-- **AI tinkering**: Experimenting with local LLMs and CLI agent workflows to see what actually works.
+- **AI tinkering**: Experimenting with local LLMs, custom API proxies, and CLI agent workflows.
 
-If you want to talk security, Linux setups, or collaborate, reach out on Discord (`Torch4084`) or check my blog at [t0rch.xyz](https://t0rch.xyz).
+If you want to talk security, Linux setups, or collaborate, ping me on Discord (`Torch4084`), Telegram (`@torch4084`), or check out [t0rch.xyz](https://t0rch.xyz).
 
 <br clear="both"/>
 
 ---
 
+### Competitions & Achievements
+
+| Placement | Event | Details | Year |
+| :---: | :--- | :--- | :---: |
+| 🥇 **#1** | **Arab Artificial Intelligence Olympiad (Jordan)** | National Finals (CTF & Competitive Programming) | 2026 |
+| 🥇 **#1** | **Crypteranet CTF Quals** | CTF (Solo) | 2026 |
+| 🥇 **#1** | **KaliTeamCTF** | CTF (with TimeRoom) | 2026 |
+| 🥇 **#1** | **ThryveCTF Finals Schools** | CTF Finals | 2026 |
+| 🥈 **#2** | **ASU CyberKingdom CTF** | CTF | 2026 |
+| 🥈 **#2** | **BroncoCTF** | CTF (with JordanSec) | 2026 |
+| 🥈 **#2** | **0hats CTF** | CTF | 2026 |
+| 🥈 **#2** | **Cystech CTF** | CTF | 2026 |
+| 🥈 **#2** | **App Challenge** | Game Development Competition | 2025 |
+| 🎖️ **Top 10** | **OmniCTF (#5), Crypteranet Finals (#6), BearcatCTF (#6), TexSAW (#7), KnightCTF (#8), UNbreakable Intl (#10)** | International CTFs (with JordanSec) | 2025–2026 |
+
+---
+
 ### Tools & Languages
 
-**Security**  
+**Core & Security**  
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
 <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=target&logoColor=white" alt="Nmap" />
@@ -53,7 +73,7 @@ If you want to talk security, Linux setups, or collaborate, reach out on Discord
 
 <br/>
 
-**Languages**  
+**Code**  
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
@@ -81,11 +101,11 @@ If you want to talk security, Linux setups, or collaborate, reach out on Discord
 
 ### Projects
 
-| Project | What it is | Stack |
+| Project | Description | Stack |
 | :--- | :--- | :--- |
-| [**cleanroom**](https://github.com/Torch4084/cleanroom) | GTK4 GUI for managing `systemd-nspawn` containers. Quick, isolated Linux testing environments without Docker. | Python, GTK4 |
-| [**hypr-control**](https://github.com/Torch4084/hypr-control) | CLI controller and utilities for Hyprland on Wayland. | C++ |
-| [**t0rch.xyz**](https://t0rch.xyz) | Personal site with CTF writeups, lab notes, and web security experiments. | Security Notes |
+| [**cleanroom**](https://github.com/Torch4084/cleanroom) | A GTK4 GUI for managing `systemd-nspawn` containers. Built to make lightweight Linux isolation easy to use from a desktop interface without Docker. | Python, GTK4, systemd-nspawn |
+| [**hypr-control**](https://github.com/Torch4084/hypr-control) | CLI controller and utilities for Hyprland Wayland compositor automation. | C++, Hyprland |
+| [**TORCH \| OS & Intel DB**](https://t0rch.xyz) | Personal cyberdeck site with terminal easter eggs, curated security resources (Web, Recon, Forensics, Rev), and CTF writeups. | Web, Security Intel |
 
 ---
 
