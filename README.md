@@ -18,7 +18,7 @@
   <a href="https://t0rch.xyz" target="_blank"><img src="https://img.shields.io/badge/Website-t0rch.xyz-ff6f00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="https://discord.com/users/1177684089139114048" target="_blank"><img src="https://img.shields.io/badge/Discord-Torch4084-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://t.me/torch4084" target="_blank"><img src="https://img.shields.io/badge/Telegram-@torch4084-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <img src="https://img.shields.io/badge/CTF_Team-JordanSec-DC2626?style=for-the-badge&logo=hackthebox&logoColor=white" alt="JordanSec" />
+  <a href="https://jordansec.org" target="_blank"><img src="https://img.shields.io/badge/CTF_Team-JordanSec-DC2626?style=for-the-badge&logo=hackthebox&logoColor=white" alt="JordanSec" /></a>
   <img src="https://img.shields.io/badge/Location-Jordan-007A3D?style=for-the-badge&logo=google-maps&logoColor=white" alt="Jordan" />
 </p>
 
@@ -31,6 +31,17 @@
 ### About me
 
 I'm Ahmed (Torch). I play CTFs, build small tools, and break web challenges to learn how systems fail.
+
+```text
+torch@torch-os:~$ neofetch
+   /\           user: torch (Ahmed)
+  /  \          os: Arch Linux / Fedora
+ /\   \         wm: Hyprland (Wayland)
+/      \        affiliation: JordanSec CTF Team
+/   ,,   \      focus: Web Exploitation & OSINT
+/   |  |  -\     site: t0rch.xyz
+/_-''    ''-_\  status: breaking things to understand them
+```
 
 - **CTFs & Security**: Playing with **JordanSec**, mainly focused on web exploitation and OSINT.
 - **Linux & Systems**: Arch and Fedora user. I spend probably too much time tweaking Hyprland configs and poking around system internals.
@@ -46,7 +57,7 @@ If you want to talk security, Linux setups, or collaborate, ping me on Discord (
 
 ### Competitions & Achievements
 
-| Placement | Event | Details | Year |
+| Placement | Event | Category | Year |
 | :---: | :--- | :--- | :---: |
 | 🥇 **#1** | **Arab Artificial Intelligence Olympiad (Jordan)** | National Finals (CTF & Competitive Programming) | 2026 |
 | 🥇 **#1** | **Crypteranet CTF Quals** | CTF (Solo) | 2026 |
@@ -57,7 +68,21 @@ If you want to talk security, Linux setups, or collaborate, ping me on Discord (
 | 🥈 **#2** | **0hats CTF** | CTF | 2026 |
 | 🥈 **#2** | **Cystech CTF** | CTF | 2026 |
 | 🥈 **#2** | **App Challenge** | Game Development Competition | 2025 |
-| 🎖️ **Top 10** | **OmniCTF (#5), Crypteranet Finals (#6), BearcatCTF (#6), TexSAW (#7), KnightCTF (#8), UNbreakable Intl (#10)** | International CTFs (with JordanSec) | 2025–2026 |
+
+<details>
+<summary><b>View more international finishes with JordanSec</b></summary>
+
+| Placement | Event | Notes | Year |
+| :---: | :--- | :--- | :---: |
+| **#5** | **OmniCTF** | with JordanSec | 2026 |
+| **#6** | **Crypteranet Finals** | with Plasma, rev2ret, Arataki | 2026 |
+| **#6** | **BearcatCTF** | with JordanSec | 2026 |
+| **#7** | **TexSAW** | with JordanSec | 2026 |
+| **#8** | **KnightCTF** | with JordanSec | 2026 |
+| **#9** | **NexHunt** | with JordanSec | 2025 |
+| **#10** | **UNbreakable International** | with JordanSec | 2026 |
+
+</details>
 
 ---
 
@@ -99,7 +124,7 @@ If you want to talk security, Linux setups, or collaborate, ping me on Discord (
 
 ---
 
-### Projects
+### Projects & Resources
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
@@ -112,8 +137,8 @@ If you want to talk security, Linux setups, or collaborate, ping me on Discord (
 ### GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Torch4084&show_icons=true&bg_color=0d1117&title_color=ff7700&text_color=c9d1d9&icon_color=ff7700&border_color=30363d" alt="Torch's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Torch4084&layout=compact&bg_color=0d1117&title_color=ff7700&text_color=c9d1d9&border_color=30363d" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Torch4084&show_icons=true&bg_color=0d1117&title_color=ff7700&text_color=c9d1d9&icon_color=ff7700&border_color=30363d" alt="Torch's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Torch4084&layout=compact&bg_color=0d1117&title_color=ff7700&text_color=c9d1d9&border_color=30363d" alt="Top Languages" height="165" />
 </div>
 
 <br/>
