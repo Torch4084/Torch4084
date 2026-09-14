@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Torch4084/Torch4084/main/Whiteimage.png" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Torch4084/Torch4084/main/image(Black).png" />
-    <img src="https://raw.githubusercontent.com/Torch4084/Torch4084/main/Whiteimage.png" alt="Bismillahir Rahmanir Raheem" width="600" />
+    <img src="https://raw.githubusercontent.com/Torch4084/Torch4084/main/Whiteimage.png" alt="Bismillahir Rahmanir Raheem" width="100%" style="max-width: 540px;" />
   </picture>
 </div>
 
@@ -12,7 +12,7 @@
 
 <p><em>JordanSec CTF Team // Web Exploitation // Linux // Builder</em></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF7700&center=true&vCenter=true&width=500&lines=Security+Researcher;Web+Exploitation+%26+OSINT;CTF+Player+%40+JordanSec;Linux+%26+Systems+Tinkerer;Game+Design+%26+3D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FF7700&center=true&vCenter=true&width=435&lines=Security+Researcher;Web+Exploitation+%26+OSINT;CTF+Player+%40+JordanSec;Linux+%26+Systems+Tinkerer;Game+Design+%26+3D)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://t0rch.xyz" target="_blank"><img src="https://img.shields.io/badge/Website-t0rch.xyz-ff6f00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
@@ -26,9 +26,11 @@
 
 ---
 
-<img align="right" width="200" src="https://raw.githubusercontent.com/Torch4084/Torch4084/main/torch-walk-walk.gif" alt="Torch mascot" />
-
 ### About me
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Torch4084/Torch4084/main/torch-walk-walk.gif" alt="Torch mascot" width="160" />
+</div>
 
 I'm Ahmed (Torch). I play CTFs, build small tools, and break web challenges to learn how systems fail.
 
@@ -40,36 +42,35 @@ I'm Ahmed (Torch). I play CTFs, build small tools, and break web challenges to l
 
 If you want to talk security, Linux setups, or collaborate, ping me on Discord (`Torch4084`), Telegram (`@torch4084`), or check out [t0rch.xyz](https://t0rch.xyz).
 
-<br clear="both"/>
-
 ---
 
 ### Competitions & Achievements
 
-| Placement | Event | Category | Year |
-| :---: | :--- | :--- | :---: |
-| 🥇 **#1** | **Arab Artificial Intelligence Olympiad (Jordan)** | National Finals (CTF & Competitive Programming) | 2026 |
-| 🥇 **#1** | **Crypteranet CTF Quals** | CTF (Solo) | 2026 |
-| 🥇 **#1** | **KaliTeamCTF** | CTF (with TimeRoom) | 2026 |
-| 🥇 **#1** | **ThryveCTF Finals Schools** | CTF Finals | 2026 |
-| 🥈 **#2** | **ASU CyberKingdom CTF** | CTF | 2026 |
-| 🥈 **#2** | **BroncoCTF** | CTF (with JordanSec) | 2026 |
-| 🥈 **#2** | **0hats CTF** | CTF | 2026 |
-| 🥈 **#2** | **Cystech CTF** | CTF | 2026 |
-| 🥈 **#2** | **App Challenge** | Game Development Competition | 2025 |
+| Placement | Event & Details | Year |
+| :---: | :--- | :---: |
+| 🥇 **#1** | **Arab AI Olympiad (Jordan)**<br><sub>National Champions (CTF & Competitive Programming)</sub> | 2026 |
+| 🥇 **#1** | **Crypteranet CTF Quals** (Solo) | 2026 |
+| 🥇 **#1** | **KaliTeamCTF** (with TimeRoom) | 2026 |
+| 🥇 **#1** | **ThryveCTF Finals Schools** | 2026 |
+| 🥈 **#2** | **ASU CyberKingdom CTF** | 2026 |
+| 🥈 **#2** | **BroncoCTF** (with JordanSec) | 2026 |
+| 🥈 **#2** | **0hats CTF** | 2026 |
+| 🥈 **#2** | **Cystech CTF** | 2026 |
+| 🥈 **#2** | **App Challenge** (Game Development) | 2025 |
 
 <details>
 <summary><b>View more international finishes with JordanSec</b></summary>
+<br/>
 
-| Placement | Event | Notes | Year |
-| :---: | :--- | :--- | :---: |
-| **#5** | **OmniCTF** | with JordanSec | 2026 |
-| **#6** | **Crypteranet Finals** | with Plasma, rev2ret, Arataki | 2026 |
-| **#6** | **BearcatCTF** | with JordanSec | 2026 |
-| **#7** | **TexSAW** | with JordanSec | 2026 |
-| **#8** | **KnightCTF** | with JordanSec | 2026 |
-| **#9** | **NexHunt** | with JordanSec | 2025 |
-| **#10** | **UNbreakable International** | with JordanSec | 2026 |
+| Placement | Event & Team | Year |
+| :---: | :--- | :---: |
+| **#5** | **OmniCTF** (with JordanSec) | 2026 |
+| **#6** | **Crypteranet Finals** (with Plasma, rev2ret, Arataki) | 2026 |
+| **#6** | **BearcatCTF** (with JordanSec) | 2026 |
+| **#7** | **TexSAW** (with JordanSec) | 2026 |
+| **#8** | **KnightCTF** (with JordanSec) | 2026 |
+| **#9** | **NexHunt** (with JordanSec) | 2025 |
+| **#10** | **UNbreakable International** (with JordanSec) | 2026 |
 
 </details>
 
@@ -87,32 +88,38 @@ If you want to talk security, Linux setups, or collaborate, ping me on Discord (
   <img src="https://img.shields.io/badge/Linux_Security-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Security" />
 </p>
 
-**Languages & Systems**  
+**Code & Scripting**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,bash,js,sqlite,linux,arch,fedora,git,unity,blender&theme=dark" alt="Languages and Systems" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,bash,js,sqlite&theme=dark" alt="Code & Languages" />
+</p>
+
+**Systems & Tools**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,arch,fedora,git,unity,blender&theme=dark" alt="Systems & Tools" />
 </p>
 
 ---
 
 ### Projects & Resources
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| [**cleanroom**](https://github.com/Torch4084/cleanroom) | A GTK4 GUI for managing `systemd-nspawn` containers. Built to make lightweight Linux isolation easy to use from a desktop interface without Docker. | Python, GTK4, systemd-nspawn |
-| [**hypr-control**](https://github.com/Torch4084/hypr-control) | CLI controller and utilities for Hyprland Wayland compositor automation. | C++, Hyprland |
-| [**TORCH \| OS & Intel DB**](https://t0rch.xyz) | Personal cyberdeck site with terminal easter eggs, curated security resources (Web, Recon, Forensics, Rev), and CTF writeups. | Web, Security Intel |
+| Project | Overview |
+| :--- | :--- |
+| [**cleanroom**](https://github.com/Torch4084/cleanroom) | A GTK4 GUI for managing `systemd-nspawn` containers. Lightweight Linux isolation from the desktop without Docker.<br><sub>**Stack:** Python &middot; GTK4 &middot; systemd-nspawn</sub> |
+| [**hypr-control**](https://github.com/Torch4084/hypr-control) | CLI controller and utilities for Hyprland Wayland compositor automation.<br><sub>**Stack:** C++ &middot; Hyprland</sub> |
+| [**TORCH \| OS & Intel DB**](https://t0rch.xyz) | Personal cyberdeck site with terminal easter eggs, writeups, and 80+ curated tools across Web, Recon, and Forensics.<br><sub>**Stack:** Web &middot; Security Intel</sub> |
 
 ---
 
 ### GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Torch4084&show_icons=true&bg_color=0d1117&title_color=ff7700&text_color=c9d1d9&icon_color=ff7700&border_color=30363d" alt="Torch's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Torch4084&layout=compact&bg_color=0d1117&title_color=ff7700&text_color=c9d1d9&border_color=30363d" alt="Top Languages" height="165" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Torch4084&background=0d1117&border=30363d&stroke=ff7700&ring=ff7700&fire=ff7700&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff7700&sideLabels=8b949e&dates=8b949e&hide_border=false" alt="GitHub Streak Stats" />
+  <p>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Torch4084&show_icons=true&bg_color=0d1117&title_color=ff7700&text_color=c9d1d9&icon_color=ff7700&border_color=30363d" alt="Torch's GitHub Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Torch4084&layout=compact&bg_color=0d1117&title_color=ff7700&text_color=c9d1d9&border_color=30363d" alt="Top Languages" />
+  </p>
+  <p>
+    <img src="https://streak-stats.demolab.com/?user=Torch4084&background=0d1117&border=30363d&stroke=ff7700&ring=ff7700&fire=ff7700&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff7700&sideLabels=8b949e&dates=8b949e&hide_border=false" alt="GitHub Streak Stats" />
+  </p>
 </div>
