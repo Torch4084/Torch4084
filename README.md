@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Torch4084/Torch4084/main/Whiteimage.png" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Torch4084/Torch4084/main/image(Black).png" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Torch4084/Torch4084/main/Whiteimage-pixelart.png" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Torch4084/Torch4084/main/image(Black).png-pixelart" />
     <img src="https://raw.githubusercontent.com/Torch4084/Torch4084/main/Whiteimage.png" alt="Bismillahir Rahmanir Raheem" width="100%" style="max-width: 540px;" />
   </picture>
 </div>
