@@ -104,6 +104,7 @@ If you want to talk security, Linux setups, or collaborate, ping me on Discord (
 | Project | Overview |
 | :--- | :--- |
 | [**cleanroom**](https://github.com/Torch4084/cleanroom) | A GTK4 GUI for managing `systemd-nspawn` containers. Lightweight Linux isolation from the desktop without Docker.<br><sub>**Stack:** Python &middot; GTK4 &middot; systemd-nspawn</sub> |
+| [**wpguard**](https://github.com/Torch4084/wpguard) | Static security analyzer for WordPress plugins and themes. Finds missing authorization, SQL injection and unsafe deserialization without ever executing the PHP it inspects.<br><sub>**Stack:** Rust &middot; tree-sitter &middot; SARIF</sub> |
 | [**hypr-control**](https://github.com/Torch4084/hypr-control) | CLI controller and utilities for Hyprland Wayland compositor automation.<br><sub>**Stack:** C++ &middot; Hyprland</sub> |
 | [**TORCH \| OS & Intel DB**](https://t0rch.xyz) | Personal cyberdeck site with terminal easter eggs, writeups, and 80+ curated tools across Web, Recon, and Forensics.<br><sub>**Stack:** Web &middot; Security Intel</sub> |
 
